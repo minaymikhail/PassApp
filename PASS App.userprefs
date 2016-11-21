@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{69C01F26-4CDD-4BA9-889C-8B13F581ECD8}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="PASS App/SignUpTutorA.cs" Line="22" Column="3" />
+      <File FileName="PASS App/LoginA.cs" Line="46" Column="34" />
+      <File FileName="PASS App/DataLayer/LocalDataAccessLayer.cs" Line="174" Column="30" />
+      <File FileName="PASS App/DataLayer/Student.cs" Line="23" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PASS App" expanded="True">
+            <Node name="PASS App" expanded="True">
+              <Node name="DataLayer" expanded="True">
+                <Node name="LocalDataAccessLayer.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PASS_220App AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.DUINB6EESG79TS9S" />
+</Properties>

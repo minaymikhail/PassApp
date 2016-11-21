@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:text="Select Session"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FF007FB5"
+        android:textColor="#ff000000"
+        android:id="@+id/textView1" />
+    <RadioButton
+        android:text="Acct 2121 *time of session*"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/acct2121SelectorA" />
+    <RadioButton
+        android:text="Acct 2121 *time of session*"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/acct2121SelectorB" />
+    <Button
+        android:text="Confirm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/confirmButton"
+        android:background="#FF007FB5"
+        android:textColor="#ff000000" />
+</LinearLayout>

@@ -1,0 +1,31 @@
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/MonoAndroid,Version=v6.0.AssemblyAttribute.cs
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/bin/Debug/PASS App.dll.mdb
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/bin/Debug/PASS App.dll
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/bin/Debug/PASS_App.PASS_App.apk
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/android/bin/PASS_App.PASS_App.apk
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/res/layout/login.xml
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/res/layout/signup.xml
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/res/layout/studentlogin.xml
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/res/layout/editstudentprofile.xml
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/res/layout/sessionsignup.xml
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/res/layout/sessiondetailsstudent.xml
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/res/layout/tutorprofile.xml
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/res/layout/edittutorprofile.xml
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/res/layout/createsession2.xml
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/res/layout/sessiondetailstutor.xml
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/res/layout/editsession.xml
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/res/layout/createsession1.xml
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/res/layout/sessionselectiontutor.xml
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/res/layout/confirmattendance.xml
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/res/layout/signuptutor.xml
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/res/drawable/mru.png
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/res/layout/main.xml
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/res/values/strings.xml
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/res/drawable/icon.png
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/R.cs.flag
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/bin/Debug/PASS_App.PASS_App-Signed.apk
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/uploadflags.txt
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/PASS App.dll
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/PASS App.dll.mdb
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/bin/Debug/SQLitePCL.raw.dll
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/bin/Debug/SQLite-net.dll

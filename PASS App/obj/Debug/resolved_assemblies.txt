@@ -1,0 +1,27 @@
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/android/assets/PASS App.dll
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/android/assets/Mono.Android.dll
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/android/assets/mscorlib.dll
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/android/assets/System.dll
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/android/assets/System.Core.dll
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/android/assets/System.Xml.Linq.dll
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/android/assets/System.Xml.dll
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/android/assets/Java.Interop.dll
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/android/assets/System.Runtime.dll
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/android/assets/SQLitePCL.raw.dll
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/android/assets/SQLite-net.dll
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/android/assets/System.Net.Http.dll
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/android/assets/System.Runtime.Serialization.dll
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/android/assets/System.ServiceModel.Internals.dll
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/android/assets/System.Threading.dll
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/android/assets/System.Collections.dll
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/android/assets/System.Collections.Concurrent.dll
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/android/assets/System.Diagnostics.Debug.dll
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/android/assets/System.Reflection.dll
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/android/assets/System.Linq.dll
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/android/assets/System.Runtime.InteropServices.dll
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/android/assets/System.Runtime.Extensions.dll
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/android/assets/System.Reflection.Extensions.dll
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/android/assets/System.ComponentModel.Composition.dll
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/android/assets/System.Linq.Expressions.dll
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/android/assets/System.Threading.Tasks.dll
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/android/assets/System.Resources.ResourceManager.dll

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="PASS_App.PASS_App" android:versionCode="1" android:versionName="1.0">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="16" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <application android:label="PASS_App" android:icon="@drawable/mru" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <activity android:label="CreateSession2A" android:name="md51deaf69f6bbd9131d9a0967158ffc568.CreateSession2A" />
+    <activity android:label="EditSessionA" android:name="md51deaf69f6bbd9131d9a0967158ffc568.EditSessionA" />
+    <activity android:label="EditStudentProfileA" android:name="md51deaf69f6bbd9131d9a0967158ffc568.EditStudentProfileA" />
+    <activity android:label="EditTutorProfileA" android:name="md51deaf69f6bbd9131d9a0967158ffc568.EditTutorProfileA" />
+    <activity android:label="LoginA" android:name="md51deaf69f6bbd9131d9a0967158ffc568.LoginA" />
+    <activity android:icon="@drawable/mru" android:label="Pass_App" android:name="md51deaf69f6bbd9131d9a0967158ffc568.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="SessionDetailsStudentA" android:name="md51deaf69f6bbd9131d9a0967158ffc568.SessionDetailsStudentA" />
+    <activity android:label="SessionDetailsTutor" android:name="md51deaf69f6bbd9131d9a0967158ffc568.SessionDetailsTutorA" />
+    <activity android:label="SessionSignUpA" android:name="md51deaf69f6bbd9131d9a0967158ffc568.SessionSignUpA" />
+    <activity android:label="SignUpA" android:name="md51deaf69f6bbd9131d9a0967158ffc568.SignUpA" />
+    <activity android:label="StudentLoginA" android:name="md51deaf69f6bbd9131d9a0967158ffc568.StudentLoginA" />
+    <activity android:label="TutorProfileA" android:name="md51deaf69f6bbd9131d9a0967158ffc568.TutorProfileA" />
+    <activity android:label="CreateSession1A" android:name="md51deaf69f6bbd9131d9a0967158ffc568.CreateSession1A" />
+    <activity android:label="SessionSelectionTutorA" android:name="md51deaf69f6bbd9131d9a0967158ffc568.SessionSelectionTutorA" />
+    <activity android:label="ConfirmAttendanceA" android:name="md51deaf69f6bbd9131d9a0967158ffc568.ConfirmAttendanceA" />
+    <activity android:label="SignUpTutorA" android:name="md51deaf69f6bbd9131d9a0967158ffc568.SignUpTutorA" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="PASS_App.PASS_App.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.PASS_App.PASS_App" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>

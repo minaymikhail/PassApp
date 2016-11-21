@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:rowCount="6"
+    android:padding="15dp"
+    android:columnCount="1"
+    android:id="@+id/gridLayout1"
+    android:minWidth="25px"
+    android:minHeight="25px">
+    <TextView
+        android:text="Create Session"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="26dp"
+        android:id="@+id/textView1"
+        android:layout_gravity="center_horizontal" />
+    <TextView
+        android:text="Choose Session Date"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="23dp"
+        android:id="@+id/textView1" />
+    <DatePicker
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:id="@+id/SessionDate"
+        android:minWidth="25px"
+        android:minHeight="25px" />
+    <TextView
+        android:text="Choose Session Time"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="23dp"
+        android:id="@+id/textView1" />
+    <ScrollView
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:id="@+id/scrollView1">
+        <TimePicker
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:id="@+id/SessionTime"
+            android:layout_gravity="center"
+            android:minWidth="25px"
+            android:minHeight="25px" />
+    </ScrollView>
+    <Button
+        android:text="Next"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:id="@+id/nextButton" />
+</GridLayout>

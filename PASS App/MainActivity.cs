@@ -39,13 +39,13 @@ namespace Pass_App
         private void SignupButton_Click(object sender, EventArgs e)
         {
             //throw new NotImplementedException();
-			StartActivity(typeof(SignUpA));
+			StartActivity(typeof(SignupDirector));
         }
 
         private void LoginButton_Click(object sender, EventArgs e)
         {
             //throw new NotImplementedException();
-			StartActivity(typeof(LoginA));
+			StartActivity(typeof(LoginDirector));
         }
     }
 }

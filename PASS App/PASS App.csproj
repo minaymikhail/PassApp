@@ -80,6 +80,9 @@
     <Compile Include="DataLayer\sessionTutorClass.cs" />
     <Compile Include="DataLayer\sessionStudentClass.cs" />
     <Compile Include="SignUpTutorA.cs" />
+    <Compile Include="LoginDirectorA.cs" />
+    <Compile Include="TutorLoginA.cs" />
+    <Compile Include="SignupDirector.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
@@ -123,6 +126,8 @@
     <AndroidResource Include="Resources\layout\ConfirmAttendance.axml" />
     <AndroidResource Include="Resources\layout\SignUpTutor.axml" />
     <AndroidResource Include="Resources\drawable\MRU.png" />
+    <AndroidResource Include="Resources\layout\LoginDirector.axml" />
+    <AndroidResource Include="Resources\layout\TutorLogin.axml" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\Main.axml">

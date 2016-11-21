@@ -66,3 +66,15 @@ Pass_App.SignUpTutorA, PASS App;md51deaf69f6bbd9131d9a0967158ffc568.SignUpTutorA
 Pass_App.SignUpTutorA, PASS App, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51deaf69f6bbd9131d9a0967158ffc568.SignUpTutorA
 Pass_App.SignUpTutorA;md51deaf69f6bbd9131d9a0967158ffc568.SignUpTutorA
 pass_app.SignUpTutorA;md51deaf69f6bbd9131d9a0967158ffc568.SignUpTutorA
+Pass_App.LoginDirector, PASS App;md51deaf69f6bbd9131d9a0967158ffc568.LoginDirector
+Pass_App.LoginDirector, PASS App, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51deaf69f6bbd9131d9a0967158ffc568.LoginDirector
+Pass_App.LoginDirector;md51deaf69f6bbd9131d9a0967158ffc568.LoginDirector
+pass_app.LoginDirector;md51deaf69f6bbd9131d9a0967158ffc568.LoginDirector
+Pass_App.TutorLoginA, PASS App;md51deaf69f6bbd9131d9a0967158ffc568.TutorLoginA
+Pass_App.TutorLoginA, PASS App, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51deaf69f6bbd9131d9a0967158ffc568.TutorLoginA
+Pass_App.TutorLoginA;md51deaf69f6bbd9131d9a0967158ffc568.TutorLoginA
+pass_app.TutorLoginA;md51deaf69f6bbd9131d9a0967158ffc568.TutorLoginA
+Pass_App.SignupDirector, PASS App;md51deaf69f6bbd9131d9a0967158ffc568.SignupDirector
+Pass_App.SignupDirector, PASS App, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51deaf69f6bbd9131d9a0967158ffc568.SignupDirector
+Pass_App.SignupDirector;md51deaf69f6bbd9131d9a0967158ffc568.SignupDirector
+pass_app.SignupDirector;md51deaf69f6bbd9131d9a0967158ffc568.SignupDirector

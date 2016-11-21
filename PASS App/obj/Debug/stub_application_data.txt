@@ -1,2 +1,0 @@
-android.app.Application
-PASS_App.PASS_App

@@ -19,6 +19,8 @@
 /Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/res/layout/confirmattendance.xml
 /Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/res/layout/signuptutor.xml
 /Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/res/drawable/mru.png
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/res/layout/logindirector.xml
+/Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/res/layout/tutorlogin.xml
 /Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/res/layout/main.xml
 /Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/res/values/strings.xml
 /Users/minamikhail/programming4/PASS_App/PASS App/PASS App/obj/Debug/res/drawable/icon.png
